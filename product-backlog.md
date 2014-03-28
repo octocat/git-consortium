@@ -22,8 +22,6 @@
 
 ### News
 
-* As a site visitor, I can read current news on the home page.
-* As a site visitor, I can access old news that is no longer on the home page.
 * As a site visitor, I can email news items to the editor.
   * this could just be an email link to the editor.
 * As a site a site editor, I can set the following dates on a news item:
