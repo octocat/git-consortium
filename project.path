@@ -1,0 +1,78 @@
+%PDF-1.4
+%ûüýþ
+4 0 obj
+<<
+/Parent 3 0 R
+/Resources 5 0 R
+/MediaBox [0.00000 0.00000 612.00000 792.00000 ]
+/Contents [6 0 R ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Length 14
+>>
+stream
+
+ q /X0 Do
+ Q 
+endstream
+endobj
+2 0 obj
+<<
+/ModDate (D:20150616204941)
+/Author ()
+/Keywords <>
+/CreationDate (D:20150616204812)
+/Title (DocuSign Certificate)
+/Creator ()
+/Subject (DocuSign Certificate)
+/Producer (PDFKit.NET 4.0.40.0)
+>>
+endobj
+5 0 obj
+<<
+/XObject <<
+/X0 7 0 R
+>>
+>>
+endobj
+7 0 obj
+<<
+/Length 1893
+/Resources <<
+/XObject <<
+/I1 8 0 R
+/I0 9 0 R
+>>
+/Font <<
+/tallF4 10 0 R
+/tallF5 11 0 R
+>>
+>>
+/Subtype /Form
+/FormType 1
+/Filter /FlateDecode
+/Type /XObject
+/BBox [0.00000 0.00000 612.00000 792.00000 ]
+>>
+<p>Search a string for "function", and display the position of the match:</p>
+
+<button onclick="myFunction()">and go</button>
+
+<p id="Path"></p>
+
+<script>
+function myFunction() {
+    var str = "Visit W3Schools!"; 
+    var n = str.search(/w3Schools/i);
+    document.getElementById("Path").innerHTML = n;
+}
+</script>
+stream
+xœÍ\ÛnãF}÷Wè 2™û(ú°Ø¶èãùÔ–»[ôûË¡,iho6¦"Ñ¶E¶e›<Ãs†Ãi×}éŒÒøèôÅÁôVÐi<LÎ*‡nÿ²û'ÇúH®[ûdÿR¿ÝÎ_
+›KÍ³ñN|ü]wÿé>íºOWôÐXô@Mºæã6Lîx1ŒŸ}üØÿ÷×¾ÿã·ÝþÛN«m
+ÝùÿoûÝé+Ç¯î^.^	ÑžŽLT6×ƒ¯ýîx•y³}Ô@¦sp8­Ñ}xêæO<-=v°ûÚûO]ÿƒÿÿ>þükèÌøÚÓ±ûÉ»’M>ˆ]4p¬ŽÇ¿ïã!é¸‡³ê9ÇØÿÜ=ý=ÛÓšÓý–^
+-ZÄc&Z:«^G+)ïó;Ðò]nÁ
+±O1€ã 
